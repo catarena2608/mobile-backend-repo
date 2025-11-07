@@ -22,4 +22,6 @@ mongoose.connect(process.env.MONGO_URI)
   .then(() => console.log("✅ Auth service connected to MongoDB"))
   .catch(err => console.error("❌ MongoDB error:", err));
 
-app.listen(3001, () => console.log("🚀 Auth service running on port 3001"));
+app.listen(process.env.PORT || 4001, () =>
+      console.log(`🚀 Post service running on port ${process.env.PORT || 3001}`)
+    );
