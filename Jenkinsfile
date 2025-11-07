@@ -56,7 +56,7 @@ pipeline {
                     // 1. Build Image
                     dir(serviceDir) {
                         echo "Đang build image..."
-                        sh "docker build -t ${imageName} ."
+                        sh "docker build --no-cache -t ${imageName} ."
                     }
 
                     // 2. Push lên Docker Hub
