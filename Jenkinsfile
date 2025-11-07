@@ -60,7 +60,7 @@ pipeline {
                     // 3. Deploy lên Cloud Run
                     withCredentials([file(credentialsId: 'gcp-service-account', variable: 'GCP_KEY_FILE')]) {
                         echo "Đang xác thực GCP và deploy..."
-                        sh "gcloud auth activate-service-account --key-file ${GCP_KEY_FILE}"
+                        sh 'gcloud auth activate-service-account --key-file ${GCP_KEY_FILE}'
                         sh "gcloud config set project ${GCP_PROJECT_ID}"
                         
                         sh """
