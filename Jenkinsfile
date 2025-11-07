@@ -23,6 +23,13 @@ pipeline {
     }
 
     stages {
+
+         stage('Checkout') {
+            steps {
+                echo "Building service: ${params.SERVICE_NAME}"
+                checkout scm
+            }
+        }
         
         // === 2. GIAI ĐOẠN BUILD VÀ PUSH (LINH HOẠT) ===
         stage('Build, Push, Deploy') {
@@ -32,7 +39,6 @@ pipeline {
                     def serviceName = params.SERVICE_TO_BUILD
                     def serviceDir = "${serviceName}" 
                     def imageName = "${DOCKERHUB_USERNAME}/${serviceName.toLowerCase()}:latest"
-
                     echo "Bắt đầu build cho service: ${serviceName}"
                     echo "Thư mục: ${serviceDir}"
                     echo "Image: ${imageName}"
