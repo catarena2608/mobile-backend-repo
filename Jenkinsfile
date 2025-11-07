@@ -53,8 +53,8 @@ pipeline {
                     // 2. Push lên Docker Hub
                     withCredentials([usernamePassword(credentialsId: 'dockerhub', usernameVariable: 'DOCKER_USER', passwordVariable: 'DOCKER_PASS')]) {
                         echo "Đang đăng nhập và đẩy (push) image..."
-                        sh 'echo ${DOCKER_PASS} | docker login -u ${DOCKER_USER} --password-stdin'
-                        sh 'docker push ${imageName}'
+                        sh "echo ${DOCKER_PASS} | docker login -u ${DOCKER_USER} --password-stdin"
+                        sh "docker push ${imageName}"
                     }
 
                     // 3. Deploy lên Cloud Run
