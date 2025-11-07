@@ -64,7 +64,7 @@ pipeline {
                         sh "gcloud config set project ${GCP_PROJECT_ID}"
                         
                         sh """
-                            gcloud run deploy ${serviceName.toLowerCase()} \
+                            gcloud run deploy ${serviceName.toLowerCase()}- \
                               --image ${imageName} \
                               --region ${GCP_REGION} \
                               --platform managed \
