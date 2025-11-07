@@ -76,7 +76,7 @@ pipeline {
                         
                         sh "gcloud config set project ${GCP_PROJECT_ID}"
                         
-                        sh "gcloud run deploy ${deployName} --image ${imageName} --region ${GCP_REGION} --platform managed --allow-unauthenticated"
+                        sh "gcloud run deploy ${deployName} --image ${imageName} --region ${GCP_REGION} --platform managed --allow-unauthenticated --port=8080"
                     }
                 }
             }
