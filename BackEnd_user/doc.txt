@@ -1,0 +1,24 @@
+Cách hoạt động của BackEnd - tức user API:
+    Folder models là mongoose schema để ịn vào NoSQL collection
+    File .env để lưu các hằng bảo mật
+    File chính là server.js:
+        Nó cho cho CORS từ trình duyệt domain http://localhost:5173
+        Các kiểu khai báo các packege xài như parser,...
+        Nó kết nối với atlas bằng URI của .env
+        Nó dùng fs async để ghi users.json vào atlas nếu chưa có
+        Route thì nó có 2 cái là /api/auth và /api/users
+    authRoutes.js:
+        Đầu tiên nó copy chuỗi JWT từ chuỗi SECRET của .env
+        POST /api/auth/login:
+            Nó dò xem có email tồn tại ko, có thì so mật khẩu, đúng thì spawn token cho user này với hạn 24h
+            Nó trả ra bằng res.cookie token ấy
+            Nó trả về res.json là thông tin của user đang login
+        GET /api/auth/me:(dùng để chạy đầu tiên khi reload, load lần đầu)
+            Nó check xem trong req có kèm token ko, có thì nó đem decode xem đúng sai
+        POST /api/auth/register:
+            Nó lấy hết value của form và check coi email tồn tại chưa, chưa thì nó add hết mớ value vô database
+        POST /api/auth/logout:
+            Nó clear token trên trình duyệt thôi
+    userRoutes.js:
+        GET /api/users:
+            Nó lấy hết các user xong trả về bằng res
