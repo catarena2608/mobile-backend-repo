@@ -19,6 +19,6 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.19.1",
     "nodemailer": "^7.0.10",
-    "uuid": "^13.0.0"
+    "uuid": "^8.3.2"
   }
 }
