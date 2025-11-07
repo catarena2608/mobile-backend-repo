@@ -17,9 +17,9 @@ app.use(
 
 // ================== MAP SERVICE ==================
 const serviceMap = {
-  "/api/auth": "http://localhost:3001",  // Auth service
-  "/api/users": "http://localhost:3002", // User service
-  "/api/post": "http://localhost:4001", // Post service
+  "/api/auth": "https://backend-auth-734851024323.asia-southeast1.run.app",  // Auth service
+  "/api/users": "https://backend-user-734851024323.asia-southeast1.run.app", // User service
+  "/api/post": "https://backend-post-734851024323.asia-southeast1.run.app", // Post service
 };
 
 // ================== JWT MIDDLEWARE ==================
