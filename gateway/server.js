@@ -112,7 +112,7 @@ app.use("/api", (req, res) => {
 app.get("/", (req, res) => res.send("🌐 API Gateway đang hoạt động! 🚀"));
 
 // ================== START ==================
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8080;
 app.listen(PORT, () => {
   console.log(`🚪 Gateway chạy ở http://localhost:${PORT}`);
 });
