@@ -43,7 +43,7 @@ pipeline {
                     def serviceDir = "${serviceName}" 
 
                     // 3. Tên Image (ví dụ: 'catarena/backend_auth:latest')
-                    def imageName = "${DOCKERHUB_USERNAME}/${serviceName.toLowerCase()}:latest"
+                    def imageName = "${DOCKERHUB_USERNAME}/${serviceName.toLowerCase()}:${env.BUILD_NUMBER}"
 
                     //    -> Đổi sang chữ thường VÀ thay thế _ bằng -
                     def deployName = serviceName.toLowerCase().replaceAll('_', '-')
