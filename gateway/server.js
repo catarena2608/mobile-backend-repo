@@ -1,6 +1,6 @@
 require("dotenv").config();
 const express = require("express");
-const http = require("http");
+const https = require("https");
 const cors = require("cors");
 const cookieParser = require("cookie-parser");
 const jwt = require("jsonwebtoken");
@@ -89,7 +89,7 @@ app.use("/api", (req, res) => {
     headers,
   };
 
-  const proxyReq = http.request(targetUrl, options, (proxyRes) => {
+  const proxyReq = https.request(targetUrl, options, (proxyRes) => {
     res.status(proxyRes.statusCode);
     for (const [key, value] of Object.entries(proxyRes.headers)) {
       res.setHeader(key, value);

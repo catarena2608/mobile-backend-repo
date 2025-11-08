@@ -1,7 +1,7 @@
 // routes/routes.config.js
 module.exports = {
-  "/api/auth": "http://localhost:3001", // Auth service
-  "/api/users": "http://localhost:3002", // User service
-  // "/api/posts": "http://localhost:3003", // ví dụ sau này nếu có thêm
+  "/api/auth": "https://backend-auth-734851024323.asia-southeast1.run.app", // Auth service
+  "/api/users": "https://backend-user-734851024323.asia-southeast1.run.app", // User service
+  "/api/posts": "https://backend-post-734851024323.asia-southeast1.run.app", // Post service
   // "/api/comments": "http://localhost:3004",
 };
