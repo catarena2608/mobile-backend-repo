@@ -1,0 +1,24 @@
+[
+    {
+        "name":"Cơm chiên tôm trứng",
+        "description":"Cơm chiên trứng với tôm và rau củ làm topping",
+        "ration":3,
+        "ingre":{
+            "base":[{"ingreID":"0c0e84c1-dc84-4ab8-afc9-5058b1e9c43d", "quantity":"4 chén"}],
+            "comple":[{"ingreID":"8acd4083-ef2a-4191-b9f9-113a3632ffa8", "quantity":"5 quả"},{"ingreID":"243d3b0e-d371-4439-a17a-9716373140b1", "quantity":"200g"},{"ingreID":"2d0cdbc8-05e9-4b1a-a037-451634ea52d8", "quantity":"300g"},"8ab0218d-0b96-48d3-bd0b-bc0d27f6060a"],
+            "spice":[{"ingreID":"f85236bc-e421-470d-aeb8-562a57ea61cf", "quantity":"Vài tép"},{"ingreID":"f886b714-5bad-4418-8c0d-8c4c3d5eb3bf", "quantity":"2 muỗng"}],
+            "other":[{"ingreID":"8aba6dec-2855-4198-bd56-34ba3eb02fdc", "quantity":"1 muỗng"}]
+        },
+        "step":[
+            {"num": 1, "content":"Làm nóng dầu trong chảo và cho tỏi vào", "media":[]},
+            {"num": 2, "content":"Trộn đều cho tơi cơm đến rời hạt", "media":[]},
+            {"num": 3, "content":"Khi cơm nóng, cho một muỗng nước mắm để cơm lên màu nâu đẹp", "media":[]},
+            {"num": 4, "content":"Đánh trứng vừa phải và đổ vào trộn chung với cơm", "media":[]},
+            {"num": 5, "content":"Cho cà rốt và hành tây vào trộn chung", "media":[]},
+            {"num": 6, "content":"Cho tôm vào trộn cho đến khi tôm chín", "media":[]}
+        ],
+        "tip":["Chắc chắn rằng bạn đã luộc cà rốt chín trước khi cho vào chảo, nên luộc chín trước khi bắt đầu chiên cơm, luộc khoảng 1-2p", "Cơm nguội loại ít dẻo chiên sẽ ngon và rời hạt hơn","Bạn không nên đánh trứng quá kĩ sẽ tạo cảm giác xốp"],
+        "time": "Từ 10 đến 15 phút"
+    }
+
+]

@@ -9,6 +9,7 @@ pipeline {
             choices: [
                 'BackEnd_auth', 
                 'BackEnd_post', 
+                'BackEnd_recipe', 
                 'BackEnd_user', 
                 'gateway'
             ],

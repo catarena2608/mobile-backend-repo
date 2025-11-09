@@ -1,0 +1,1805 @@
+[{
+  "_id": "0c0e84c1-dc84-4ab8-afc9-5058b1e9c43d",
+  "name": "White Rice",
+  "name_vi": "Gạo trắng",
+  "category": "Grain",
+  "type": [
+    "base"
+  ],
+  "tags": [
+    "staple",
+    "asian",
+    "neutral-flavor",
+    "boiled",
+    "soft-texture"
+  ],
+  "flavor_profile": [
+    "nhạt",
+    "thơm nhẹ",
+    "mềm"
+  ],
+  "texture": "hạt mềm, dẻo nhẹ khi nấu chín",
+  "nutrition": {
+    "calories": 130,
+    "protein_g": 2.7,
+    "fat_g": 0.3,
+    "carbs_g": 28
+  },
+  "pairings": [
+    "thịt kho",
+    "trứng chiên",
+    "canh chua",
+    "nước mắm",
+    "rau luộc"
+  ],
+  "alternatives": [
+    "gạo lứt",
+    "nếp",
+    "yến mạch"
+  ],
+  "compatibility": {
+    "good_with": [
+      "thịt heo",
+      "cá kho",
+      "trứng",
+      "rau xanh",
+      "nước mắm"
+    ],
+    "bad_with": [
+      "sữa",
+      "chanh",
+      "đường ngọt"
+    ]
+  },
+  "storage": "Bảo quản nơi khô ráo, thoáng mát. Sau khi nấu, nên dùng trong 6 giờ hoặc bảo quản tủ lạnh.",
+  "embed_text": "Gạo trắng là loại tinh bột chủ yếu trong ẩm thực Việt Nam. Khi nấu chín, hạt gạo mềm, dẻo nhẹ, có hương thơm tự nhiên và vị trung tính giúp kết hợp được với hầu hết món ăn. Là nền tảng của nhiều bữa cơm truyền thống.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.259Z"
+  }
+},
+{
+  "_id": "d1c61b20-89d6-4737-9f0a-22eac5b4f899",
+  "name": "Fresh Rice Vermicelli",
+  "name_vi": "Bún tươi",
+  "category": "Noodle",
+  "type": [
+    "base"
+  ],
+  "tags": [
+    "vietnamese",
+    "rice-based",
+    "light-meal",
+    "fresh",
+    "street-food"
+  ],
+  "flavor_profile": [
+    "nhẹ",
+    "thanh",
+    "trung tính"
+  ],
+  "texture": "mềm, trơn, dễ đứt nếu đảo mạnh",
+  "nutrition": {
+    "calories": 110,
+    "protein_g": 1.9,
+    "fat_g": 0.2,
+    "carbs_g": 25
+  },
+  "pairings": [
+    "thịt nướng",
+    "chả giò",
+    "rau sống",
+    "nước mắm chua ngọt"
+  ],
+  "alternatives": [
+    "phở tươi",
+    "miến dong",
+    "mì gạo"
+  ],
+  "compatibility": {
+    "good_with": [
+      "thịt nướng",
+      "tôm",
+      "rau thơm",
+      "nước mắm chua ngọt"
+    ],
+    "bad_with": [
+      "sốt kem",
+      "phô mai",
+      "đồ cay nặng"
+    ]
+  },
+  "storage": "Để tủ mát 1-2 ngày, trụng nhanh nước sôi trước khi dùng lại.",
+  "embed_text": "Bún tươi là món ăn truyền thống của Việt Nam làm từ gạo, có dạng sợi trắng mảnh, mềm và thanh vị. Thường dùng với thịt nướng, chả giò, rau sống và nước mắm chua ngọt. Mang tính mát, dễ tiêu, phù hợp món ăn nhẹ hoặc trưa hè.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.260Z"
+  }
+},
+{
+  "_id": "f7ed7319-7a7e-4e29-8d47-18b536c64586",
+  "name": "Egg Noodle",
+  "name_vi": "Mì trứng",
+  "category": "Noodle",
+  "type": [
+    "base"
+  ],
+  "tags": [
+    "chinese",
+    "wheat-based",
+    "rich",
+    "quick-cook",
+    "street-food"
+  ],
+  "flavor_profile": [
+    "béo nhẹ",
+    "mặn nhẹ",
+    "thơm trứng"
+  ],
+  "texture": "dai nhẹ, trơn và đàn hồi tốt",
+  "nutrition": {
+    "calories": 138,
+    "protein_g": 4.5,
+    "fat_g": 2.1,
+    "carbs_g": 25
+  },
+  "pairings": [
+    "xá xíu",
+    "hoành thánh",
+    "rau cải",
+    "dầu hào"
+  ],
+  "alternatives": [
+    "mì gạo",
+    "bún khô",
+    "mì udon"
+  ],
+  "compatibility": {
+    "good_with": [
+      "thịt xá xíu",
+      "nước tương",
+      "dầu hào",
+      "rau cải",
+      "trứng luộc"
+    ],
+    "bad_with": [
+      "nước mắm chua ngọt",
+      "chanh tươi",
+      "thịt nướng than"
+    ]
+  },
+  "storage": "Mì tươi nên bảo quản lạnh, dùng trong 2-3 ngày. Mì khô có thể giữ đến 6 tháng nơi khô ráo.",
+  "embed_text": "Mì trứng được làm từ bột mì và trứng, có màu vàng óng, vị béo nhẹ và độ dai dễ chịu. Thường thấy trong các món Hoa như mì xá xíu, hoành thánh hoặc mì khô trộn. Khi nấu chín, sợi mì dẻo dai, thơm đặc trưng của trứng và bột mì.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.260Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.260Z"
+  }
+},
+{
+  "_id": "f3425435-c7de-4d52-94d2-0ad3f04bfa7e",
+  "name": "Bread",
+  "name_vi": "Bánh mì",
+  "category": "Bakery",
+  "type": [
+    "base"
+  ],
+  "tags": [
+    "wheat-based",
+    "baked",
+    "crispy",
+    "street-food",
+    "sandwich"
+  ],
+  "flavor_profile": [
+    "thơm bột mì",
+    "giòn ngoài",
+    "mềm trong"
+  ],
+  "texture": "vỏ giòn, ruột xốp, thơm nhẹ",
+  "nutrition": {
+    "calories": 265,
+    "protein_g": 9,
+    "fat_g": 3.2,
+    "carbs_g": 49
+  },
+  "pairings": [
+    "pate",
+    "thịt nguội",
+    "dưa leo",
+    "tương ớt",
+    "trứng ốp la"
+  ],
+  "alternatives": [
+    "bánh bao",
+    "sandwich",
+    "baguette Pháp"
+  ],
+  "compatibility": {
+    "good_with": [
+      "pate",
+      "thịt nguội",
+      "trứng",
+      "rau thơm",
+      "tương ớt"
+    ],
+    "bad_with": [
+      "nước lèo",
+      "nước mắm",
+      "sữa tươi"
+    ]
+  },
+  "storage": "Giữ nơi khô, dùng trong 1 ngày để đảm bảo độ giòn. Có thể nướng lại cho giòn trở lại.",
+  "embed_text": "Bánh mì là món ăn quen thuộc của người Việt, thường làm từ bột mì nướng giòn. Vỏ bánh giòn rụm, ruột mềm thơm, thích hợp ăn sáng hoặc làm sandwich kẹp thịt, pate, rau củ. Là biểu tượng của ẩm thực đường phố Việt Nam.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "91e1b793-ee14-4b3f-81a9-c552b43d53b9",
+  "name": "Potato",
+  "name_vi": "Khoai tây",
+  "category": "Root Vegetable",
+  "type": [
+    "base",
+    "comple"
+  ],
+  "tags": [
+    "starchy",
+    "versatile",
+    "fried",
+    "boiled",
+    "western"
+  ],
+  "flavor_profile": [
+    "bùi",
+    "ngọt nhẹ",
+    "mặn nhẹ khi chiên"
+  ],
+  "texture": "bở khi luộc, giòn ngoài mềm trong khi chiên",
+  "nutrition": {
+    "calories": 77,
+    "protein_g": 2,
+    "fat_g": 0.1,
+    "carbs_g": 17
+  },
+  "pairings": [
+    "bơ",
+    "muối",
+    "phô mai",
+    "thịt bò",
+    "hành tây"
+  ],
+  "alternatives": [
+    "khoai lang",
+    "bí đỏ"
+  ],
+  "compatibility": {
+    "good_with": [
+      "bơ",
+      "phô mai",
+      "hành tây",
+      "thịt bò",
+      "trứng"
+    ],
+    "bad_with": [
+      "chuối",
+      "dưa hấu",
+      "cam"
+    ]
+  },
+  "storage": "Để nơi khô, mát, tránh ánh nắng. Không bảo quản trong tủ lạnh để tránh ngọt hóa.",
+  "embed_text": "Khoai tây là loại củ giàu tinh bột, có thể chế biến đa dạng như chiên, nghiền, nướng hoặc hầm. Khi chiên, khoai giòn ngoài mềm trong; khi luộc, vị bùi nhẹ và dễ kết hợp với bơ, phô mai hoặc thịt. Là nguyên liệu phổ biến toàn cầu.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "8acd4083-ef2a-4191-b9f9-113a3632ffa8",
+  "name": "Chicken Egg",
+  "name_vi": "Trứng gà",
+  "category": "Protein",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "breakfast",
+    "versatile",
+    "protein-rich",
+    "fried",
+    "baked"
+  ],
+  "flavor_profile": [
+    "béo",
+    "mặn nhẹ",
+    "ngậy"
+  ],
+  "texture": "mềm khi luộc, xốp khi chiên hoặc nướng",
+  "nutrition": {
+    "calories": 155,
+    "protein_g": 13,
+    "fat_g": 11,
+    "carbs_g": 1.1
+  },
+  "pairings": [
+    "rau thơm",
+    "nước tương",
+    "thịt băm",
+    "hành tây",
+    "bánh mì"
+  ],
+  "alternatives": [
+    "trứng vịt",
+    "đậu phụ",
+    "phô mai mềm"
+  ],
+  "compatibility": {
+    "good_with": [
+      "rau thơm",
+      "hành lá",
+      "thịt xay",
+      "bánh mì",
+      "cơm"
+    ],
+    "bad_with": [
+      "sữa đặc",
+      "nước cam",
+      "quả hồng"
+    ]
+  },
+  "storage": "Bảo quản nơi khô, thoáng hoặc tủ mát dưới 10°C. Dùng trong 10–14 ngày.",
+  "embed_text": "Trứng gà là nguồn protein phổ biến, vị béo và ngậy, có thể luộc, chiên hoặc hấp. Khi chiên, lòng đỏ tạo hương thơm đặc trưng, dễ kết hợp với rau, thịt hoặc cơm. Trứng gà tượng trưng cho khởi đầu và dinh dưỡng đơn giản trong ẩm thực Việt.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "a799d774-ddfd-4cfb-b99e-c82dfe4e6b3d",
+  "name": "Beef",
+  "name_vi": "Thịt bò",
+  "category": "Meat",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "red-meat",
+    "high-protein",
+    "stir-fry",
+    "grill",
+    "iron-rich"
+  ],
+  "flavor_profile": [
+    "umami",
+    "đậm",
+    "thơm béo"
+  ],
+  "texture": "dai nhẹ, mềm khi nấu đúng cách",
+  "nutrition": {
+    "calories": 250,
+    "protein_g": 26,
+    "fat_g": 15,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "tỏi",
+    "tiêu đen",
+    "rượu vang",
+    "bơ",
+    "hành tây"
+  ],
+  "alternatives": [
+    "thịt heo nạc",
+    "gà xé",
+    "đậu hũ chắc"
+  ],
+  "compatibility": {
+    "good_with": [
+      "tỏi",
+      "tiêu",
+      "rượu vang",
+      "hành tây",
+      "bơ"
+    ],
+    "bad_with": [
+      "trà xanh",
+      "hải sản",
+      "sữa tươi"
+    ]
+  },
+  "storage": "Giữ lạnh ở 0–4°C, dùng trong 3 ngày. Nếu đông lạnh có thể giữ đến 3 tháng.",
+  "embed_text": "Thịt bò có vị đậm, giàu đạm và sắt, là nguyên liệu cao cấp cho các món xào, nướng hoặc hầm. Khi nấu chín vừa, thịt giữ độ ngọt và mềm tự nhiên. Thịt bò hợp với gia vị nồng như tỏi, tiêu, rượu vang và bơ, tạo hương vị mạnh và sang trọng.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "e20ca240-78eb-43f5-a505-e8d141cdf6e7",
+  "name": "Chicken Meat",
+  "name_vi": "Thịt gà",
+  "category": "Meat",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "white-meat",
+    "light",
+    "boiled",
+    "fried",
+    "common"
+  ],
+  "flavor_profile": [
+    "ngọt nhẹ",
+    "thanh",
+    "béo nhẹ"
+  ],
+  "texture": "mềm, dai nhẹ tùy phần thịt",
+  "nutrition": {
+    "calories": 239,
+    "protein_g": 27,
+    "fat_g": 14,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "gừng",
+    "sả",
+    "ớt",
+    "muối tiêu chanh",
+    "hành lá"
+  ],
+  "alternatives": [
+    "thịt vịt",
+    "cá trắng",
+    "đậu hũ"
+  ],
+  "compatibility": {
+    "good_with": [
+      "gừng",
+      "sả",
+      "muối tiêu chanh",
+      "ớt",
+      "rau răm"
+    ],
+    "bad_with": [
+      "tôm",
+      "hành sống",
+      "cá chép"
+    ]
+  },
+  "storage": "Thịt gà tươi nên bảo quản lạnh 0–4°C, nấu chín dùng trong ngày.",
+  "embed_text": "Thịt gà là nguyên liệu phổ biến, có vị ngọt thanh và béo nhẹ. Thường được luộc, chiên hoặc hấp cùng gừng và sả để giữ mùi thơm tự nhiên. Gà tượng trưng cho sự ấm áp, thân thuộc và được dùng trong nhiều món lễ Tết Việt.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "75468db8-d9c4-41ea-be4c-70592f23d019",
+  "name": "Pork",
+  "name_vi": "Thịt lợn",
+  "category": "Meat",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "versatile",
+    "pork-based",
+    "stir-fry",
+    "braised",
+    "asian"
+  ],
+  "flavor_profile": [
+    "béo",
+    "mặn nhẹ",
+    "thơm"
+  ],
+  "texture": "mềm, mọng nước, thay đổi theo phần thịt",
+  "nutrition": {
+    "calories": 242,
+    "protein_g": 27,
+    "fat_g": 14,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "nước mắm",
+    "tỏi",
+    "hành tím",
+    "trứng",
+    "dừa"
+  ],
+  "alternatives": [
+    "thịt bò",
+    "gà",
+    "đậu phụ"
+  ],
+  "compatibility": {
+    "good_with": [
+      "nước mắm",
+      "đường",
+      "trứng",
+      "hành tím",
+      "gừng"
+    ],
+    "bad_with": [
+      "tôm",
+      "rau mùi",
+      "nước cam"
+    ]
+  },
+  "storage": "Giữ lạnh 0–4°C, nấu chín trong 2 ngày. Đông lạnh được 2–3 tháng.",
+  "embed_text": "Thịt lợn là loại thịt phổ biến nhất trong ẩm thực Việt, có vị béo và ngọt nhẹ. Thường được kho, chiên hoặc xào. Khi kết hợp với nước mắm và đường, tạo vị mặn ngọt hài hòa đặc trưng của món ăn gia đình Việt.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "243d3b0e-d371-4439-a17a-9716373140b1",
+  "name": "Shrimp",
+  "name_vi": "Tôm",
+  "category": "Seafood",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "seafood",
+    "high-protein",
+    "umami",
+    "quick-cook",
+    "vietnamese"
+  ],
+  "flavor_profile": [
+    "ngọt",
+    "mặn nhẹ",
+    "thơm biển"
+  ],
+  "texture": "giòn dai, săn chắc khi chín",
+  "nutrition": {
+    "calories": 99,
+    "protein_g": 24,
+    "fat_g": 0.3,
+    "carbs_g": 0.2
+  },
+  "pairings": [
+    "tỏi",
+    "bơ",
+    "nước mắm",
+    "rau thơm",
+    "ớt"
+  ],
+  "alternatives": [
+    "mực",
+    "cá hồi",
+    "thịt gà"
+  ],
+  "compatibility": {
+    "good_with": [
+      "tỏi",
+      "bơ",
+      "nước mắm",
+      "ớt",
+      "chanh"
+    ],
+    "bad_with": [
+      "thịt lợn",
+      "quả táo",
+      "dưa hấu"
+    ]
+  },
+  "storage": "Giữ lạnh ở 0–4°C hoặc đông lạnh nếu chưa dùng ngay. Dùng trong 2–3 ngày.",
+  "embed_text": "Tôm là hải sản ngọt, dai và giàu đạm. Khi chiên hoặc nướng, hương thơm của vỏ tôm tạo vị umami tự nhiên. Kết hợp tốt với tỏi, bơ, nước mắm hoặc chanh. Tôm là biểu tượng cho sự sung túc trong ẩm thực Việt.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "7bedfb39-c339-438b-b0a4-7fa9c896e2ed",
+  "name": "Salmon",
+  "name_vi": "Cá hồi",
+  "category": "Seafood",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "omega-3",
+    "grill",
+    "premium",
+    "western",
+    "healthy-fat"
+  ],
+  "flavor_profile": [
+    "béo",
+    "thơm nhẹ",
+    "mặn biển"
+  ],
+  "texture": "thịt mềm, tan nhẹ, béo mịn",
+  "nutrition": {
+    "calories": 208,
+    "protein_g": 20,
+    "fat_g": 13,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "chanh",
+    "dầu ô liu",
+    "muối biển",
+    "mùi tây",
+    "bơ"
+  ],
+  "alternatives": [
+    "cá ngừ",
+    "thịt gà ức",
+    "đậu hũ mềm"
+  ],
+  "compatibility": {
+    "good_with": [
+      "chanh",
+      "dầu ô liu",
+      "bơ",
+      "muối",
+      "rau thơm"
+    ],
+    "bad_with": [
+      "nước mắm đậm",
+      "tỏi sống",
+      "sữa đặc"
+    ]
+  },
+  "storage": "Cá hồi tươi bảo quản ở 0–2°C, nên dùng trong 2 ngày. Đông lạnh tối đa 2 tháng.",
+  "embed_text": "Cá hồi là hải sản cao cấp, thịt béo mịn và giàu omega-3. Khi nướng hoặc áp chảo, cá tỏa hương thơm nhẹ, vị béo thanh. Kết hợp với chanh, bơ, hoặc dầu ô liu giúp cân bằng vị béo. Cá hồi tượng trưng cho sức khỏe và sự tinh tế trong ẩm thực hiện đại.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.261Z"
+  }
+},
+{
+  "_id": "274a73aa-3619-4f90-a95d-5a44f4111cc7",
+  "name": "Wood Ear Mushroom",
+  "name_vi": "Nấm mèo",
+  "category": "Vegetable",
+  "type": [
+    "comple"
+  ],
+  "tags": [
+    "giòn",
+    "nấu canh",
+    "chay",
+    "thanh mát",
+    "trung hoa"
+  ],
+  "flavor_profile": [
+    "thanh",
+    "nhẹ",
+    "hơi ngọt"
+  ],
+  "texture": "giòn dai, có độ đàn hồi khi nấu chín",
+  "nutrition": {
+    "calories": 25,
+    "protein_g": 1.5,
+    "fat_g": 0.1,
+    "carbs_g": 6
+  },
+  "pairings": [
+    "mộc nhĩ",
+    "miến",
+    "thịt băm",
+    "rau củ"
+  ],
+  "alternatives": [
+    "nấm hương",
+    "nấm rơm"
+  ],
+  "compatibility": {
+    "good_with": [
+      "miến",
+      "rau cải",
+      "gừng",
+      "nước tương"
+    ],
+    "bad_with": [
+      "thịt bò nướng",
+      "đồ chiên dầu nhiều"
+    ]
+  },
+  "storage": "Ngâm khô trong nước ấm 15–20 phút trước khi dùng. Bảo quản khô ráo, tránh ẩm mốc.",
+  "embed_text": "Nấm mèo là loại nấm khô phổ biến, khi ngâm nở giòn dai. Nó hấp thụ hương vị từ nước sốt, thích hợp cho món xào, canh, hoặc nem. Nấm mèo giàu chất xơ và giúp thanh lọc cơ thể, thường được dùng trong món chay và ẩm thực Trung Hoa.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "8b89eb37-ef58-41f7-9dd1-4669b440b287",
+  "name": "Tofu",
+  "name_vi": "Đậu phụ",
+  "category": "Protein",
+  "type": [
+    "comple",
+    "base"
+  ],
+  "tags": [
+    "chay",
+    "mềm",
+    "thanh đạm",
+    "giàu đạm thực vật"
+  ],
+  "flavor_profile": [
+    "thanh",
+    "béo nhẹ"
+  ],
+  "texture": "mềm mịn, dễ vỡ, tan nhẹ khi nấu chín",
+  "nutrition": {
+    "calories": 76,
+    "protein_g": 8,
+    "fat_g": 4,
+    "carbs_g": 2
+  },
+  "pairings": [
+    "gừng",
+    "nước tương",
+    "rau cải",
+    "nấm"
+  ],
+  "alternatives": [
+    "trứng",
+    "phô mai tươi",
+    "tempeh"
+  ],
+  "compatibility": {
+    "good_with": [
+      "gừng",
+      "nước tương",
+      "rau cải"
+    ],
+    "bad_with": [
+      "chanh",
+      "nước mắm",
+      "thức ăn nhiều dầu"
+    ]
+  },
+  "storage": "Bảo quản trong nước lạnh trong ngăn mát 3–5°C, thay nước mỗi ngày để giữ tươi.",
+  "embed_text": "Đậu phụ là thực phẩm giàu đạm thực vật, có vị thanh nhẹ và béo dịu. Khi chiên, đậu tạo lớp vỏ giòn nhưng vẫn mềm bên trong. Nó hấp thu tốt hương vị từ nước tương, gừng, hay rau củ. Đậu phụ được xem là nguồn năng lượng sạch, thích hợp trong ẩm thực chay.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "2d0cdbc8-05e9-4b1a-a037-451634ea52d8",
+  "name": "Carrot",
+  "name_vi": "Cà rốt",
+  "category": "Vegetable",
+  "type": [
+    "comple",
+    "base"
+  ],
+  "tags": [
+    "ngọt",
+    "giòn",
+    "màu sắc",
+    "chống oxy hóa"
+  ],
+  "flavor_profile": [
+    "ngọt nhẹ",
+    "thanh",
+    "hơi đất"
+  ],
+  "texture": "giòn, chắc, mềm dần khi nấu chín",
+  "nutrition": {
+    "calories": 41,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "carbs_g": 10
+  },
+  "pairings": [
+    "đậu hà lan",
+    "khoai tây",
+    "thịt bò",
+    "bơ"
+  ],
+  "alternatives": [
+    "su hào",
+    "bí đỏ"
+  ],
+  "compatibility": {
+    "good_with": [
+      "bơ",
+      "hành tây",
+      "thịt bò"
+    ],
+    "bad_with": [
+      "dưa leo sống"
+    ]
+  },
+  "storage": "Bảo quản trong ngăn mát 2–5°C, tránh để ẩm gây mốc. Có thể giữ 2–3 tuần.",
+  "embed_text": "Cà rốt có vị ngọt nhẹ, giàu beta-caroten, giúp sáng da và tốt cho mắt. Khi nấu, cà rốt tiết vị ngọt tự nhiên, thích hợp trong canh, xào, hoặc nướng. Màu cam rực rỡ của nó còn giúp món ăn bắt mắt hơn và cân bằng vị trong các món mặn.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "d725e09f-c305-40d4-b691-90156ee1c8aa",
+  "name": "Broccoli",
+  "name_vi": "Bông cải xanh",
+  "category": "Vegetable",
+  "type": [
+    "comple",
+    "base"
+  ],
+  "tags": [
+    "giàu vitamin C",
+    "giòn",
+    "healthy",
+    "low-calorie"
+  ],
+  "flavor_profile": [
+    "thanh",
+    "hơi đắng nhẹ",
+    "ngọt khi hấp"
+  ],
+  "texture": "giòn, xốp, mềm khi luộc",
+  "nutrition": {
+    "calories": 34,
+    "protein_g": 2.8,
+    "fat_g": 0.4,
+    "carbs_g": 7
+  },
+  "pairings": [
+    "tỏi",
+    "bơ",
+    "thịt bò",
+    "sốt kem"
+  ],
+  "alternatives": [
+    "súp lơ trắng",
+    "rau cải"
+  ],
+  "compatibility": {
+    "good_with": [
+      "bơ",
+      "thịt bò",
+      "tỏi"
+    ],
+    "bad_with": [
+      "nước mắm",
+      "sốt quá mặn"
+    ]
+  },
+  "storage": "Giữ ở 0–4°C, tránh rửa trước khi bảo quản. Dùng trong 3–5 ngày sau khi mua.",
+  "embed_text": "Bông cải xanh là loại rau giàu vitamin C và chất xơ, có vị hơi đắng khi sống và ngọt dịu khi hấp. Khi xào cùng tỏi hoặc bơ, nó dậy hương thơm đặc trưng. Đây là nguyên liệu được ưa chuộng trong các món healthy và thực dưỡng.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "2970fa1d-b97a-421b-a838-1cabd6734a28",
+  "name": "Tomato",
+  "name_vi": "Cà chua",
+  "category": "Vegetable",
+  "type": [
+    "comple",
+    "spice"
+  ],
+  "tags": [
+    "umami",
+    "chua ngọt",
+    "sốt",
+    "màu đỏ",
+    "dinh dưỡng"
+  ],
+  "flavor_profile": [
+    "chua ngọt",
+    "thanh",
+    "giàu umami"
+  ],
+  "texture": "mềm, mọng nước, dễ nát khi nấu lâu",
+  "nutrition": {
+    "calories": 18,
+    "protein_g": 0.9,
+    "fat_g": 0.2,
+    "carbs_g": 4
+  },
+  "pairings": [
+    "tỏi",
+    "hành tây",
+    "dầu ô liu",
+    "muối"
+  ],
+  "alternatives": [
+    "cà chua bi",
+    "ớt chuông đỏ"
+  ],
+  "compatibility": {
+    "good_with": [
+      "dầu ô liu",
+      "tỏi",
+      "muối"
+    ],
+    "bad_with": [
+      "dưa leo sống"
+    ]
+  },
+  "storage": "Giữ ở 10–15°C, tránh lạnh sâu để không mất vị ngọt. Dùng trong 5–7 ngày.",
+  "embed_text": "Cà chua là nguyên liệu chua ngọt, giàu lycopene giúp chống oxy hóa. Khi nấu, acid tự nhiên trong cà chua giúp cân bằng vị, đồng thời tạo nền umami cho nước sốt. Là thành phần cơ bản trong nhiều món Âu – Á.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "b4077dad-4bc7-4348-8591-87177f63bc1b",
+  "name": "Lettuce",
+  "name_vi": "Xà lách",
+  "category": "Vegetable",
+  "type": [
+    "comple",
+    "base"
+  ],
+  "tags": [
+    "salad",
+    "tươi",
+    "mát",
+    "ít calo"
+  ],
+  "flavor_profile": [
+    "nhạt",
+    "thanh mát"
+  ],
+  "texture": "giòn, mềm khi non, dễ gãy khi khô",
+  "nutrition": {
+    "calories": 15,
+    "protein_g": 1.4,
+    "fat_g": 0.2,
+    "carbs_g": 2.9
+  },
+  "pairings": [
+    "sốt mè rang",
+    "dưa leo",
+    "cà chua",
+    "thịt gà nướng"
+  ],
+  "alternatives": [
+    "rau diếp cá",
+    "rau cải non"
+  ],
+  "compatibility": {
+    "good_with": [
+      "sốt giấm",
+      "dầu ô liu"
+    ],
+    "bad_with": [
+      "nước mắm đậm",
+      "sốt ngọt đặc"
+    ]
+  },
+  "storage": "Bảo quản ở 4–8°C, gói trong khăn giấy để hút ẩm. Dùng trong 3–5 ngày.",
+  "embed_text": "Xà lách có vị thanh mát, là nền cho nhiều món salad. Khi kết hợp với sốt mè hoặc dầu giấm, lá xà lách giữ độ giòn và làm dịu vị món chính. Nó chứa nhiều nước, ít calo, thích hợp cho thực đơn ăn kiêng.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "5d3e6c4c-31db-4a21-be06-d6af81a39486",
+  "name": "Cheese",
+  "name_vi": "Phô mai",
+  "category": "Dairy",
+  "type": [
+    "comple",
+    "spice"
+  ],
+  "tags": [
+    "béo",
+    "sữa",
+    "protein",
+    "phương tây",
+    "nướng"
+  ],
+  "flavor_profile": [
+    "béo",
+    "mặn nhẹ",
+    "thơm sữa"
+  ],
+  "texture": "mềm dẻo, tan chảy khi nóng, dai khi nguội",
+  "nutrition": {
+    "calories": 350,
+    "protein_g": 25,
+    "fat_g": 28,
+    "carbs_g": 2
+  },
+  "pairings": [
+    "bánh mì",
+    "cà chua",
+    "thịt nguội",
+    "rượu vang"
+  ],
+  "alternatives": [
+    "bơ",
+    "kem sữa",
+    "đậu phụ non"
+  ],
+  "compatibility": {
+    "good_with": [
+      "bánh mì",
+      "thịt nguội",
+      "rượu vang"
+    ],
+    "bad_with": [
+      "nước mắm",
+      "chanh",
+      "đường"
+    ]
+  },
+  "storage": "Bảo quản ở 2–6°C, tránh để hở lâu ngoài không khí. Phô mai cứng giữ được 1–2 tháng.",
+  "embed_text": "Phô mai là sản phẩm từ sữa lên men, có vị béo và thơm đặc trưng. Khi nướng hoặc tan chảy, phô mai tạo độ ngậy và mùi sữa quyến rũ. Nó là thành phần quen thuộc trong món Âu như pizza, pasta, và sandwich.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "8ab0218d-0b96-48d3-bd0b-bc0d27f6060a",
+  "name": "Onion",
+  "name_vi": "Hành tây",
+  "category": "Vegetable",
+  "type": [
+    "spice",
+    "base"
+  ],
+  "tags": [
+    "umami",
+    "ngọt",
+    "nền hương",
+    "nấu Âu",
+    "nướng",
+    "xào"
+  ],
+  "flavor_profile": [
+    "ngọt",
+    "hăng nhẹ",
+    "umami khi nấu"
+  ],
+  "texture": "giòn khi sống, mềm và ngọt khi nấu chín",
+  "nutrition": {
+    "calories": 40,
+    "protein_g": 1.1,
+    "fat_g": 0.1,
+    "carbs_g": 9
+  },
+  "pairings": [
+    "tỏi",
+    "bơ",
+    "thịt bò",
+    "cà chua",
+    "dầu ô liu"
+  ],
+  "alternatives": [
+    "hành tím",
+    "tỏi tây"
+  ],
+  "compatibility": {
+    "good_with": [
+      "bơ",
+      "cà chua",
+      "thịt bò"
+    ],
+    "bad_with": [
+      "rau thơm mạnh như thì là",
+      "món tráng miệng"
+    ]
+  },
+  "storage": "Bảo quản nơi khô thoáng, 20–25°C, tránh ẩm. Không nên để cạnh khoai tây vì dễ hỏng.",
+  "embed_text": "Hành tây có vị ngọt dịu khi nấu và là nền hương cơ bản cho nhiều món ăn. Khi phi thơm hoặc nướng, hành tây giải phóng vị ngọt umami tự nhiên, tạo chiều sâu cho nước sốt và súp. Hợp với tỏi, bơ và thịt đỏ, hành tây là nguyên liệu không thể thiếu trong ẩm thực Âu – Á.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "f85236bc-e421-470d-aeb8-562a57ea61cf",
+  "name": "Garlic",
+  "name_vi": "Tỏi",
+  "category": "Spice",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "thơm",
+    "mạnh",
+    "chống khuẩn",
+    "gia vị nền",
+    "chiên",
+    "xào"
+  ],
+  "flavor_profile": [
+    "hăng",
+    "cay nhẹ",
+    "ngọt khi chín"
+  ],
+  "texture": "giòn khi phi, mềm khi nướng hoặc luộc",
+  "nutrition": {
+    "calories": 149,
+    "protein_g": 6.4,
+    "fat_g": 0.5,
+    "carbs_g": 33
+  },
+  "pairings": [
+    "hành tây",
+    "thịt heo",
+    "tôm",
+    "bơ"
+  ],
+  "alternatives": [
+    "hành tím",
+    "tỏi đen"
+  ],
+  "compatibility": {
+    "good_with": [
+      "hành tây",
+      "dầu ăn",
+      "thịt",
+      "rau thơm"
+    ],
+    "bad_with": [
+      "mật ong",
+      "cá sống"
+    ]
+  },
+  "storage": "Để nơi khô thoáng, 20–25°C, tránh ánh nắng. Không bảo quản trong tủ lạnh để tránh mọc mầm.",
+  "embed_text": "Tỏi là gia vị nền với mùi hăng đặc trưng, khi phi trong dầu tạo hương thơm mạnh. Dưới nhiệt, tỏi chuyển vị từ hăng sang ngọt, giúp làm dậy mùi món xào, chiên, nướng. Giàu allicin kháng khuẩn, tỏi được xem là 'linh hồn' của ẩm thực Á Đông.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "7ea28a45-b934-417a-b743-44f3dff3afd9",
+  "name": "Ginger",
+  "name_vi": "Gừng",
+  "category": "Spice",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "ấm",
+    "cay",
+    "thơm",
+    "giải cảm",
+    "truyền thống"
+  ],
+  "flavor_profile": [
+    "cay",
+    "ấm",
+    "hăng thơm"
+  ],
+  "texture": "xơ nhẹ, mềm khi nấu, dai khi sống",
+  "nutrition": {
+    "calories": 80,
+    "protein_g": 1.8,
+    "fat_g": 0.8,
+    "carbs_g": 18
+  },
+  "pairings": [
+    "thịt gà",
+    "cá",
+    "chanh",
+    "mật ong"
+  ],
+  "alternatives": [
+    "sả",
+    "nghệ"
+  ],
+  "compatibility": {
+    "good_with": [
+      "thịt gà",
+      "cá",
+      "chanh",
+      "mật ong"
+    ],
+    "bad_with": [
+      "tỏi sống",
+      "rượu mạnh"
+    ]
+  },
+  "storage": "Bảo quản gừng tươi trong ngăn mát 3–5°C hoặc phơi khô để dùng dần.",
+  "embed_text": "Gừng mang vị cay ấm, giúp khử mùi tanh và kích thích tiêu hóa. Khi đun nóng, gingerol trong gừng chuyển hóa thành zingerone – tạo vị ngọt dịu và hương ấm. Thường dùng trong món kho, hấp, hoặc trà giải cảm, gừng tượng trưng cho sự ấm áp trong ẩm thực châu Á.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "c8263a5f-7fc2-4e75-a248-c3f869e1a876",
+  "name": "Scallion",
+  "name_vi": "Hành lá",
+  "category": "Vegetable",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "thơm",
+    "trang trí",
+    "gia vị tươi",
+    "xào",
+    "canh"
+  ],
+  "flavor_profile": [
+    "thơm nhẹ",
+    "hăng thoang thoảng"
+  ],
+  "texture": "mềm, giòn khi tươi, teo khi nấu chín",
+  "nutrition": {
+    "calories": 32,
+    "protein_g": 1.8,
+    "fat_g": 0.2,
+    "carbs_g": 7.3
+  },
+  "pairings": [
+    "trứng",
+    "tỏi",
+    "cá",
+    "cơm chiên"
+  ],
+  "alternatives": [
+    "hành tím non",
+    "rau mùi"
+  ],
+  "compatibility": {
+    "good_with": [
+      "trứng",
+      "dầu ăn",
+      "thịt heo"
+    ],
+    "bad_with": [
+      "sữa",
+      "sốt kem"
+    ]
+  },
+  "storage": "Giữ trong túi kín ở 4–8°C, tránh ẩm. Có thể cắt nhỏ và trữ đông.",
+  "embed_text": "Hành lá là loại gia vị tươi thường được rắc lên món ăn sau cùng để tăng hương thơm. Vị hăng nhẹ và màu xanh mát của hành giúp món ăn trông hấp dẫn hơn. Thích hợp cho món xào, canh, cơm chiên và trứng.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "f886b714-5bad-4418-8c0d-8c4c3d5eb3bf",
+  "name": "Fish Sauce",
+  "name_vi": "Nước mắm",
+  "category": "Condiment",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "mặn",
+    "đậm đà",
+    "truyền thống",
+    "Việt Nam",
+    "fermented"
+  ],
+  "flavor_profile": [
+    "mặn",
+    "umami",
+    "hăng nhẹ"
+  ],
+  "texture": "lỏng, sánh nhẹ, mùi nồng đặc trưng",
+  "nutrition": {
+    "calories": 60,
+    "protein_g": 10,
+    "fat_g": 0,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "chanh",
+    "tỏi",
+    "ớt",
+    "đường"
+  ],
+  "alternatives": [
+    "nước tương",
+    "muối tinh",
+    "tương bần"
+  ],
+  "compatibility": {
+    "good_with": [
+      "chanh",
+      "đường",
+      "ớt",
+      "tỏi"
+    ],
+    "bad_with": [
+      "sữa",
+      "rượu",
+      "phô mai"
+    ]
+  },
+  "storage": "Giữ ở nhiệt độ phòng, nơi thoáng mát, tránh ánh nắng. Đậy kín để giữ mùi.",
+  "embed_text": "Nước mắm là tinh túy của ẩm thực Việt, được lên men từ cá và muối. Vị mặn đậm và mùi nồng giúp làm nổi bật vị món ăn. Khi pha cùng chanh, đường và ớt, nước mắm tạo nên nước chấm cân bằng, giàu umami và hương vị truyền thống.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "e11279c0-166e-412f-bfa1-ed42b295143d",
+  "name": "Soy Sauce",
+  "name_vi": "Xì dầu",
+  "category": "Condiment",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "mặn nhẹ",
+    "umami",
+    "châu Á",
+    "nấu chay",
+    "lên men"
+  ],
+  "flavor_profile": [
+    "mặn nhẹ",
+    "thơm lên men",
+    "umami"
+  ],
+  "texture": "lỏng, nâu sẫm, sánh nhẹ",
+  "nutrition": {
+    "calories": 53,
+    "protein_g": 8,
+    "fat_g": 0,
+    "carbs_g": 5
+  },
+  "pairings": [
+    "đậu phụ",
+    "cơm chiên",
+    "rau xào",
+    "gừng"
+  ],
+  "alternatives": [
+    "nước mắm",
+    "tương hột"
+  ],
+  "compatibility": {
+    "good_with": [
+      "gừng",
+      "đậu phụ",
+      "rau cải"
+    ],
+    "bad_with": [
+      "phô mai",
+      "đồ ngọt"
+    ]
+  },
+  "storage": "Đậy kín, bảo quản nơi khô mát hoặc trong tủ lạnh sau khi mở nắp.",
+  "embed_text": "Xì dầu là gia vị lên men từ đậu nành, có vị mặn nhẹ và thơm dịu hơn nước mắm. Nó tạo màu nâu bóng và vị umami đặc trưng cho món xào, kho, và nước chấm. Là lựa chọn phổ biến trong món chay và ẩm thực châu Á.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "e3fb0af4-1dbc-46a3-9d87-b661f9cff91e",
+  "name": "Chili Sauce",
+  "name_vi": "Tương ớt",
+  "category": "Condiment",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "spicy",
+    "sauce",
+    "vietnamese",
+    "umami"
+  ],
+  "flavor_profile": [
+    "cay",
+    "ngọt nhẹ",
+    "chua nhẹ"
+  ],
+  "texture": "sệt, mịn, màu đỏ tươi",
+  "nutrition": {
+    "calories": 45,
+    "protein_g": 1,
+    "fat_g": 0,
+    "carbs_g": 10
+  },
+  "pairings": [
+    "thịt nướng",
+    "phở",
+    "chả giò",
+    "trứng chiên"
+  ],
+  "alternatives": [
+    "ớt tươi",
+    "tương cà",
+    "salsa"
+  ],
+  "compatibility": {
+    "good_with": [
+      "đường",
+      "tỏi",
+      "chanh",
+      "xì dầu"
+    ],
+    "bad_with": [
+      "kem",
+      "sữa",
+      "phô mai"
+    ]
+  },
+  "storage": "Bảo quản nơi thoáng mát, sau khi mở nên để ngăn mát tủ lạnh.",
+  "embed_text": "Tương ớt là gia vị phổ biến trong ẩm thực Việt Nam, có vị cay xen lẫn ngọt và chua nhẹ. Nó giúp tăng hương vị cho món chiên, nướng, hoặc phở. Màu đỏ rực và độ sệt mịn khiến món ăn trông hấp dẫn hơn.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.262Z"
+  }
+},
+{
+  "_id": "78bcb2d5-71f9-4fe3-be9a-8e6648856e95",
+  "name": "Salt",
+  "name_vi": "Muối",
+  "category": "Seasoning",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "essential",
+    "mineral",
+    "umami",
+    "preserve"
+  ],
+  "flavor_profile": [
+    "mặn",
+    "đậm"
+  ],
+  "texture": "hạt nhỏ, khô, giòn",
+  "nutrition": {
+    "calories": 0,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "thịt",
+    "cá",
+    "rau luộc",
+    "trứng"
+  ],
+  "alternatives": [
+    "muối biển",
+    "nước tương",
+    "nước mắm"
+  ],
+  "compatibility": {
+    "good_with": [
+      "chanh",
+      "ớt",
+      "tỏi",
+      "dầu"
+    ],
+    "bad_with": [
+      "đường nhiều",
+      "kem",
+      "đồ ngọt"
+    ]
+  },
+  "storage": "Để nơi khô ráo, tránh ẩm, có thể dùng vô thời hạn nếu bảo quản đúng.",
+  "embed_text": "Muối là gia vị cơ bản nhất, giúp làm nổi bật hương vị tự nhiên của thực phẩm. Trong văn hóa Việt, muối tượng trưng cho sự gắn kết và bền lâu, thường được dùng trong cả món mặn lẫn món chấm.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  }
+},
+{
+  "_id": "62781f7a-f0fe-4462-a93f-6ecb0d2d01d5",
+  "name": "Sugar",
+  "name_vi": "Đường",
+  "category": "Sweetener",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "sweet",
+    "energy",
+    "balance"
+  ],
+  "flavor_profile": [
+    "ngọt",
+    "thanh"
+  ],
+  "texture": "hạt nhỏ, tan nhanh, trắng tinh",
+  "nutrition": {
+    "calories": 387,
+    "protein_g": 0,
+    "fat_g": 0,
+    "carbs_g": 100
+  },
+  "pairings": [
+    "tương ớt",
+    "cà phê",
+    "chanh",
+    "nước mắm"
+  ],
+  "alternatives": [
+    "mật ong",
+    "đường thốt nốt",
+    "si rô bắp"
+  ],
+  "compatibility": {
+    "good_with": [
+      "chanh",
+      "muối",
+      "ớt",
+      "gừng"
+    ],
+    "bad_with": [
+      "nước sốt quá mặn",
+      "đồ béo"
+    ]
+  },
+  "storage": "Bảo quản nơi khô ráo, tránh ẩm, đậy kín sau khi dùng.",
+  "embed_text": "Đường mang lại vị ngọt giúp cân bằng các vị mặn, chua, cay trong món ăn. Trong ẩm thực Việt, đường thường được dùng trong nước chấm, kho, và cả món tráng miệng, tạo sự hài hòa cho tổng thể hương vị.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  }
+},
+{
+  "_id": "bfbf711e-8dcd-4e2b-831e-8ae46e608f0e",
+  "name": "Black Pepper",
+  "name_vi": "Tiêu đen",
+  "category": "Spice",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "spicy",
+    "aromatic",
+    "vietnamese"
+  ],
+  "flavor_profile": [
+    "cay nồng",
+    "thơm"
+  ],
+  "texture": "hạt nhỏ, giòn, xay mịn hoặc nguyên hạt",
+  "nutrition": {
+    "calories": 251,
+    "protein_g": 10,
+    "fat_g": 3,
+    "carbs_g": 64
+  },
+  "pairings": [
+    "thịt bò",
+    "trứng",
+    "rau xào",
+    "súp"
+  ],
+  "alternatives": [
+    "tiêu trắng",
+    "ớt khô",
+    "bột ớt"
+  ],
+  "compatibility": {
+    "good_with": [
+      "muối",
+      "tỏi",
+      "hành",
+      "nước tương"
+    ],
+    "bad_with": [
+      "đồ ngọt",
+      "nước trái cây"
+    ]
+  },
+  "storage": "Bảo quản trong lọ kín, tránh ánh sáng và ẩm.",
+  "embed_text": "Tiêu đen là gia vị tạo mùi cay nồng và kích thích vị giác. Nó giúp món ăn dậy mùi và có chiều sâu. Trong ẩm thực Việt, tiêu thường được rắc lên món canh, trứng chiên hoặc ướp thịt.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  }
+},
+{
+  "_id": "8aba6dec-2855-4198-bd56-34ba3eb02fdc",
+  "name": "Cooking Oil",
+  "name_vi": "Dầu ăn",
+  "category": "Cooking Fat",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "fat",
+    "essential",
+    "frying",
+    "neutral"
+  ],
+  "flavor_profile": [
+    "béo nhẹ",
+    "trung tính"
+  ],
+  "texture": "lỏng, vàng nhạt",
+  "nutrition": {
+    "calories": 884,
+    "protein_g": 0,
+    "fat_g": 100,
+    "carbs_g": 0
+  },
+  "pairings": [
+    "chiên",
+    "xào",
+    "ướp",
+    "salad"
+  ],
+  "alternatives": [
+    "dầu ô liu",
+    "bơ",
+    "mỡ heo"
+  ],
+  "compatibility": {
+    "good_with": [
+      "muối",
+      "tiêu",
+      "tỏi",
+      "gừng"
+    ],
+    "bad_with": [
+      "nước nhiều",
+      "chanh tươi khi đang nóng"
+    ]
+  },
+  "storage": "Để nơi khô ráo, tránh ánh nắng trực tiếp.",
+  "embed_text": "Dầu ăn là thành phần không thể thiếu trong chế biến món chiên và xào. Nó giúp dẫn truyền nhiệt và mang lại vị béo nhẹ, làm thực phẩm chín vàng đều và thơm ngon hơn.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  }
+},
+{
+  "_id": "ed7df669-c931-40c8-8f34-75396ad38c58",
+  "name": "Herbs",
+  "name_vi": "Rau thơm",
+  "category": "Herb",
+  "type": [
+    "spice"
+  ],
+  "tags": [
+    "fresh",
+    "aromatic",
+    "vietnamese",
+    "garnish"
+  ],
+  "flavor_profile": [
+    "thơm",
+    "mát",
+    "hăng nhẹ"
+  ],
+  "texture": "lá mềm, xanh tươi",
+  "nutrition": {
+    "calories": 36,
+    "protein_g": 3,
+    "fat_g": 1,
+    "carbs_g": 6
+  },
+  "pairings": [
+    "bún",
+    "phở",
+    "gỏi",
+    "thịt nướng"
+  ],
+  "alternatives": [
+    "rau mùi",
+    "rau húng",
+    "rau quế"
+  ],
+  "compatibility": {
+    "good_with": [
+      "chanh",
+      "ớt",
+      "nước mắm",
+      "tỏi"
+    ],
+    "bad_with": [
+      "sốt kem",
+      "bơ đậm",
+      "đồ ngọt"
+    ]
+  },
+  "storage": "Bọc khăn ẩm và bảo quản ngăn mát, dùng trong 3 ngày.",
+  "embed_text": "Rau thơm là linh hồn của ẩm thực Việt Nam, mang lại hương vị tươi mát và làm dịu các món nhiều dầu mỡ. Mỗi loại rau thơm lại có mùi riêng, giúp món ăn trọn vẹn và cân bằng.",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-07T00:42:14.263Z"
+  }
+}]
